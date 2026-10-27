@@ -28,6 +28,9 @@ do instalacji na własnych urządzeniach, do prywatnego użytku.
 Aplikacja korzysta z tych samych mechanizmów co oryginał. **Może przestać działać** po zmianach po stronie Librusa.
 Kod źródłowy oryginału pochodzi z lutego 2025 r.
 
+Inne wersje: [CarPlay](https://github.com/wadamczewski/szkolny.eu-carplay), [Android Auto](https://github.com/wadamczewski/szkolny.eu-androidauto),
+[LG webOS](https://github.com/wadamczewski/szkolny.eu-webos), [Android TV](https://github.com/wadamczewski/szkolny.eu-androidtv).
+
 > [!NOTE]
 > **Stan weryfikacji.** Sprawdzone na prawdziwym koncie (symulator, Xcode 27.1): logowanie loginem Synergii, ekran Start,
 > oceny, plan lekcji, wiadomości i zakładka Więcej (terminarz, frekwencja, uwagi, ogłoszenia). **Nie sprawdzone:**
